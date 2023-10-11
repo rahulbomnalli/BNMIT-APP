@@ -15,6 +15,27 @@ https://drive.google.com/file/d/19SP6TBkSYpZXts_OpYzKeVZUUJBGHQGw/view?usp=shari
 Feel free to choose the download option that suits your preference. If you have any questions or need assistance, please don't hesitate to reach out. Enjoy the BNMIT app!
 
 
+#Screenshots
+
+## Screenshots
+
+Here are some screenshots of the BNMIT app to give you a glimpse of its user interface and features.
+
+![Main Page](https://github.com/rahulbomnalli7/BNMIT-APP/assets/142937045/14d06ae8-0305-4d46-b8b7-1761e6699f05)
+
+![Web Page](https://github.com/rahulbomnalli7/BNMIT-APP/assets/142937045/d91cfbb4-2ec6-4ab3-9c73-dd3e0bf29ca1)
+
+
+![Contineo Page](https://github.com/rahulbomnalli7/BNMIT-APP/assets/142937045/e38a131f-b36f-4772-9251-9f92f46d9d6d)
+
+
+![Result Page](https://github.com/rahulbomnalli7/BNMIT-APP/assets/142937045/4741eddf-d799-4dd1-b106-35eded0c1c2f)
+
+
+![Faculty Profile](https://github.com/rahulbomnalli7/BNMIT-APP/assets/142937045/2f38b225-3e52-479e-b42a-a074c2b0bb8a)
+
+
+
 **Key Features**
 1. Access Your College Website
 Say goodbye to the hassle of opening a web browser to check college updates. With the BNMIT app, you can effortlessly navigate your college's website to stay informed about important announcements, events, and resources. It's all at your fingertips.

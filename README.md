@@ -4,8 +4,13 @@
 Welcome to the BNMIT App
 Welcome to the BNMIT app – the ultimate companion for students, faculty, and anyone interested in B.N.M. Institute of Technology. This README file provides an overview of the app and its key features.
 
+Amazon App Store
+Download the app from the Amazon App Store by clicking the link below:
+https://www.amazon.com/gp/product/B0CKSWSR7W
 
-Download App from here: https://www.amazon.com/gp/product/B0CKSWSR7W 
+Direct APK Download
+If you prefer to download the APK file directly, you can do so by clicking the link below:
+https://drive.google.com/file/d/19SP6TBkSYpZXts_OpYzKeVZUUJBGHQGw/view?usp=sharing
 
 Key Features
 1. Access Your College Website

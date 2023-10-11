@@ -4,6 +4,9 @@
 Welcome to the BNMIT App
 Welcome to the BNMIT app – the ultimate companion for students, faculty, and anyone interested in B.N.M. Institute of Technology. This README file provides an overview of the app and its key features.
 
+
+Download App from here: https://www.amazon.com/gp/product/B0CKSWSR7W 
+
 Key Features
 1. Access Your College Website
 Say goodbye to the hassle of opening a web browser to check college updates. With the BNMIT app, you can effortlessly navigate your college's website to stay informed about important announcements, events, and resources. It's all at your fingertips.

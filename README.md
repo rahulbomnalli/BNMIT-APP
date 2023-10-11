@@ -31,3 +31,6 @@ Get to know your professors better through the Institutional Research Network In
 5. Open to Everyone
 The BNMIT app is not just for students and faculty – it's for everyone interested in BNMIT. Explore all the pages and faculty profiles available through IRNIS, and become a part of our vibrant college community.
 
+## Feedback
+
+If you have any feedback, please reach out to us at fake@fake.com

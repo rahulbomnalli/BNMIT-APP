@@ -5,11 +5,11 @@
 Welcome to the BNMIT app – the ultimate companion for students, faculty, and anyone interested in B.N.M. Institute of Technology.
 
 **Amazon App Store**
-Download the app from the Amazon App Store by clicking the link below:
+Download the app from the Amazon App Store by clicking the link:
 [DOWNLOAD](https://www.amazon.com/gp/product/B0CKSWSR7W)
 
 **Direct APK Download**
-If you prefer to download the APK file directly, you can do so by clicking the link below:
+If you prefer to download the APK file directly, you can do so by clicking the link:
 [DOWNLOAD](https://drive.google.com/file/d/19SP6TBkSYpZXts_OpYzKeVZUUJBGHQGw/view?usp=sharing)
 
 Feel free to choose the download option that suits your preference. If you have any questions or need assistance, please don't hesitate to reach out. Enjoy the BNMIT app!

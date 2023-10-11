@@ -33,4 +33,4 @@ The BNMIT app is not just for students and faculty – it's for everyone interes
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at contactrahulbomnalli@gmail.com

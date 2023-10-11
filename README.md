@@ -2,7 +2,7 @@
 # BNMIT APP
 
 **Welcome to the BNMIT App**
-Welcome to the BNMIT app – the ultimate companion for students, faculty, and anyone interested in B.N.M. Institute of Technology. This README file provides an overview of the app and its key features.
+Welcome to the BNMIT app – the ultimate companion for students, faculty, and anyone interested in B.N.M. Institute of Technology.
 
 **Amazon App Store**
 Download the app from the Amazon App Store by clicking the link below:
